@@ -10,5 +10,4 @@
 ## Jogo:
 ### Jogo dos dedos
 
-## Link para arquivo ipynb:
-### https://colab.research.google.com/drive/1FjDJe7zFuuoPqOTCHU_EGuZUtL-DGwaO#scrollTo=0IeHlmxyR-W6
+## Link para arquivo ipynb: https://colab.research.google.com/drive/1FjDJe7zFuuoPqOTCHU_EGuZUtL-DGwaO#scrollTo=0IeHlmxyR-W6
