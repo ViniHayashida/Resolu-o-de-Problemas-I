@@ -1,2 +1,4 @@
-# Resolu-o-de-Problemas-I
-FT Unicamp - Sistemas de Informação 2° Semestre 2020
+# Resolução-de-Problemas-I SI202A
+
+Integrantes:
+Gabriel Penna 
